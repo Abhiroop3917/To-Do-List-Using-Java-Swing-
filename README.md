@@ -7,4 +7,6 @@
     to run the application make sure the java is installed correctly
     first compile the ToDoApp.java as "javac ToDoApp.java"
     secondly Run the application as "java ToDoApp"
-    
+# Screen short of the application
+    ![image](https://github.com/user-attachments/assets/284615e7-5f46-44cd-b52f-e40ff98e8bf6)
+
